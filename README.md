@@ -1,4 +1,4 @@
-# Velociraptorm Home Lab
+# Velociraptor Home Lab
 
 
 
@@ -41,4 +41,19 @@
 ![velo](images/gui.png)
 
 
+
+## Collecting artifacts of currently running processes
+
+![velo](images/v1.png)
+
+
+![velo](images/v2.png)
+
+![velo](images/v4.png)
+
+
+
+![velo](images/vql1.png)
+
+![velo](images/vql2.png)
 
